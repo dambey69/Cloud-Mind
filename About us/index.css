@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins';
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px;
+    align-items: center;
+    
+}
+
+.navtext{
+    display: flex;
+    gap: 32px;
+
+}
+
+.navtext{
+    font-weight: 600;
+}
+
+.navactive{
+    color: #008080;
+
+}
+
+.twoline-text{
+    margin-left: 70px;
+    position: absolute;
+    margin-top: -50px;  
+}
+
+.text-box{
+    position: relative;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 1px;
+    margin-left: 68px;
+    margin-top: 400px;
+    bottom: 280px;
+    background-color: rgba(8, 146, 146, 0.553);
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+    width: calc(30% - 10px);
+    word-spacing: 4px;
+    line-height: 30px;
+}
+
+.blackgirl{
+    position: absolute;
+    margin-left: 943px;
+    margin-top: -930px;
+}
+
+
+
+
+

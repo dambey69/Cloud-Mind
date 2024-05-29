@@ -72,42 +72,42 @@ body{
         }
 
    .top-right{
-    text-align: right;
-    margin-right: 50px;
-    margin-top: -165px;
-    font-size: 20px;
+        text-align: right;
+        margin-right: 50px;
+        margin-top: -165px;
+        font-size: 20px;
    }
 
    .main-image{
-    margin-top: 30px;
-    margin-left: 30px;
-    border-radius: 5px;
+        margin-top: 30px;
+        margin-left: 30px;
+        border-radius: 5px;
    }
 
    .text-box{
-    position: relative;
-    padding-top: 25px;
-    padding-left: 20px;
-    padding-bottom: 25px;
-    margin-left: 56px;
-    bottom: 270px;
-    margin-left: 25px;
-    background-color: rgba(8, 155, 155, 0.547);
-    color: white;
-    border-radius: 6px;
-    width: calc(30% - 20px);
+        position: relative;
+        padding-top: 25px;
+        padding-left: 20px;
+        padding-bottom: 25px;
+        margin-left: 56px;
+        bottom: 270px;
+        margin-left: 25px;
+        background-color: rgba(8, 155, 155, 0.547);
+        color: white;
+        border-radius: 6px;
+        width: calc(30% - 20px);
 }
 
 .know-more{
-    position: relative;
-    background-color: #008080;
-    bottom: 255px;
-    color: white;
-    height: 40px;
-    width: 110px;
-    border-radius: 6px;
-    cursor: pointer;
-    margin-left: 30px;
+        position: relative;
+        background-color: #008080;
+        bottom: 255px;
+        color: white;
+        height: 40px;
+        width: 110px;
+        border-radius: 6px;
+        cursor: pointer;
+        margin-left: 30px;
     }
 
     .consultation-form {

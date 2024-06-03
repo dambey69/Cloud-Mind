@@ -14,8 +14,21 @@
         bottom: 30px;
         text-align: left;
         background-color: white;
-        margin-left: 60px;
-        margin-right: 50px;
-        margin-top: 40px;
+        margin-left: -6px;
+        margin-right: 500px;
+        margin-top: 30px;
     
 }
+
+.textbox{
+    margin-left: 140px;
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+
+.last-text{
+    margin-top: 150px;
+    margin-left: 100px;
+    
+}
+

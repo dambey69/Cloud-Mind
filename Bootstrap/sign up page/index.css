@@ -1,0 +1,30 @@
+.mainlogo{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.maintext{
+    
+    
+    margin-left: 600px;
+}
+
+.mb-3{
+    position: relative;
+        bottom: 30px;
+        text-align: left;
+        background-color: white;
+        margin-left: -6px;
+        margin-right: 500px;
+        margin-top: 60px;
+    
+}
+
+
+
+.last-text{
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+

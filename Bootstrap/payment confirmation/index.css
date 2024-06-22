@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.mainlogo{
+    margin-top: 30px;
+    margin-left: -170px;
+}
+
+.headingtext{
+    text-align: center;
+    margin-top: -50px;
+
+    h2{
+        color: #008080;
+    }
+    
+}
+
+.payment-img {
+    margin-top: 30px;
+    width: 120px;
+    
+}
+
+.user-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.user-icon-img {
+    width: 30px;
+}
+
+table {
+    margin: 0 auto;
+    width: 80%;
+}
+
+h5 {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+@media (max-width: 768px) {
+    .payment-img {
+        width: 100px;
+    }
+
+    table {
+        width: 100%;
+    }
+}

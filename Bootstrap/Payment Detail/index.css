@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.mainlogo{
+    margin-top: 30px;
+    margin-left: -170px;
+}
+
+.headingtext{
+    text-align: center;
+    margin-top: -50px;
+
+    h2{
+        color: #008080;
+    }
+    
+}
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.card-body {
+    padding: 20px;
+}
+
+
+
+.payment-options {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.payment-option {
+    text-align: center;
+}
+
+.payment-option img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.packages-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+.packages-table th,
+.packages-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.packages-table th {
+    background-color: #f8f8f8;
+}
+
+.packages-table td {
+    background-color: #fff;
+}
+
+.subscription-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.subscription-info .label {
+    font-weight: bold;
+}
+
+.subscription-info .value {
+    text-align: right;
+}
+
+.renew-package {
+    margin-bottom: 20px;
+}
+
+
